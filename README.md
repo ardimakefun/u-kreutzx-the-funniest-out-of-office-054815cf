@@ -1,8 +1,8 @@
 # The Funniest Out-of-Office
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-kreutzx-the-funniest-out-of-office-054815cf)
-[![Prize $2](https://img.shields.io/badge/prize-%242-green)](https://make.fun/c/u-kreutzx-the-funniest-out-of-office-054815cf)
-[![Deadline 26 Nov 2026](https://img.shields.io/badge/deadline-26%20Nov%202026%2016%3A50%20WIB-orange)](https://make.fun/c/u-kreutzx-the-funniest-out-of-office-054815cf)
+[![make.fun · u-kreutzx-the-funniest-out-of-office-054815cf](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
+[![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/ardimakefun/u-kreutzx-the-funniest-out-of-office-054815cf/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
+[![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/ardimakefun/u-kreutzx-the-funniest-out-of-office-054815cf/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
 
 Entry for the make.fun bounty
 [The Funniest Out-of-Office](https://make.fun/c/u-kreutzx-the-funniest-out-of-office-054815cf)
